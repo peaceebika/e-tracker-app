@@ -30,7 +30,7 @@ This is a static HTML/CSS-based prototype for a **crime-reporting portal** used 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
